@@ -1,0 +1,17 @@
+body {
+  background-color: #FFFF0;
+  font-family: Arial, sans-serif;
+  color: #191970:
+}
+.kartu-profil{
+  width: 300px;
+  margin: 50npx auto; /*50px jarak atas/bawah, auto menengahkan kiri/kanan
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px; /* Membuat sudut menjadi melengkung */
+box-shado2w: 0 4px
+.kartu-profil img {
+  width: 150px;
+  border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+}
+ka
